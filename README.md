@@ -14,7 +14,7 @@ print('this is my fintech space)
 
 #### "table of contents" 
 
-![picture](kobe.jpg)
+![picture](Kobe.jpg)
 
 [data](data)
 
